@@ -1,10 +1,23 @@
-# Porjet (Juillet 2026)
+# Projet (Juillet 2026)
 
-VirtualBox est un logiciel de virtualisation
+VirtualBox est un logiciel de virtualisation.  
+Il sert à créer des petits ordinateurs virtuels à l’intérieur d'un PC pour y installer des systèmes comme Linux sans toucher à Windows.  
+Il va me servir à tester, apprendre et installer des systèmes ou des serveurs sans toucher casser mon PC.
+
+## Installation
+
+## Télécharger une ISO Ubuntu Server ou Debian  
 Donc il faut maintenant télécharger une ISO Linux.
 
+##
 
+configurer Nginx
 
+installer MariaDB
+
+mettre Netdata
+
+configurer le réseau
 
 
 # Sources
