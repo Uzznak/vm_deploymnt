@@ -24,6 +24,8 @@ configurer le réseau
 
 
 https://youtu.be/uvocM9joVfw?si=D1lIe8K-7gqIcUGG
+https://youtu.be/o3GLoOI2pbI?si=IjTe-hy0myz6gSAn
+
 
 https://www.debian.org/distrib/?utm_source=copilot.com
 
